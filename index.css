@@ -1,0 +1,36 @@
+.youtube {
+    background-color: rgb(32, 159, 168);
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    border-radius: 13px;
+    position: absolute;
+    left: 37.7%;
+    bottom: 60%;
+    font-style: italic;
+    font-size: xxx-large;
+}
+
+.discord {
+    background-color: rgb(32, 159, 168);
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 38.9%;
+    bottom: 30%;
+    font-size: xxx-large;
+    border-radius: 10px;
+    font-style: italic;
+}
+
+img.yt {
+    position: absolute;
+    left: 20%;
+    bottom: 50%;
+    border-radius: 50px;
+}
+
+img.disimg {
+    position: absolute;
+    left: 16%;
+    bottom: 20%;
+    border-radius: 50px;
+}
